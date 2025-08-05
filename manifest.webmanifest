@@ -1,0 +1,15 @@
+{
+  "name": "HYPNOTOAD",
+  "short_name": "HYPNOTOAD",
+  "display": "standalone",
+  "background_color": "#282830",
+  "theme_color": "#282830",
+  "description": "All glory to the HYPNOTOAD.",
+  "icons": [
+    {
+      "src": "http://theuselessweb.site/r33b.net/apple-touch-icon.png",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en"
+}
